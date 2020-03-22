@@ -24,7 +24,7 @@ __________
 
 __________
 
-COURSE DESCRIPTION:
+**COURSE DESCRIPTION:**
 
 If you're looking for a comprehensive, hands-on guide to learning Microsoft Power BI Desktop, you've come to the right place.
 
@@ -32,7 +32,7 @@ Power BI is quickly becoming the world's most powerful self-service business int
 
 __________
 
-THE COURSE PROJECT:
+**THE COURSE PROJECT:**
 
 In this course, you'll be playing the role of Lead Business Intelligence Analyst for Adventure Works Cycles, a global manufacturing company. Your mission? To design and deliver a professional-quality, end-to-end business intelligence solution, armed only with Power BI and a handful of raw csv files.
 
@@ -40,29 +40,29 @@ But don't worry, I'll be guiding you through the ins-and-outs of Power BI Deskto
 
 __________
 
-POWER BI OBJECTIVE #1: Connect & Transform the Raw Data
+**POWER BI OBJECTIVE #1: Connect & Transform the Raw Data**
 
-Intro to the Power BI Query Editor
+ * Intro to the Power BI Query Editor
 
-Types of Power BI Data Connectors
+ * Types of Power BI Data Connectors
 
-Basic Table Transformations
+ * Basic Table Transformations
 
-Text, Number & Date Tools
+ * Text, Number & Date Tools
 
-Index & Conditional Columns
+ * Index & Conditional Columns
 
-Grouping & Aggregating Data
+ * Grouping & Aggregating Data
 
-Pivoting & Unpivoting
+ * Pivoting & Unpivoting
 
-Modifying, Merging & Appending Queries
+ * Modifying, Merging & Appending Queries
 
-Connecting to Folders
+ * Connecting to Folders
 
-Defining Hierarchies & Categories
+ * Defining Hierarchies & Categories
 
-Query Editing & Power BI Best Practices
+ * Query Editing & Power BI Best Practices
 
 __________
 
