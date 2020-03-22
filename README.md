@@ -11,12 +11,15 @@ __________
 **Hear why this is one of the TOP-RATED Power BI courses on Udemy:**
 
 *"Instructor is top notch - moves at the right pace and keeps it interesting. Best Power BI course on Udemy!"*
+
 -Adam Edwards
 
 *"Resources are awesome. Presenter is brilliant. I found this course more useful than the offical Power BI course from Microsoft. Things are easy to follow, and presentations are of high quality."*
+
 -Jacobus M.
 
 *"Chris is a skilled communicator and does a great job of explaining a complex tool like Microsoft Power BI. His 'pro-tips' are great for new user productivity and gaining a sense of the big picture, and I value his best practices on building and managing Power BI queries and reports. I'm feeling much more confident to dig in and use Power BI on my own projects!"*
+
 -Bill Jerrow
 
 __________
