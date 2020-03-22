@@ -1,4 +1,4 @@
-NOTE: This is PART 1 of a 2-Part Microsoft Power BI series:
+**NOTE: This is PART 1 of a 2-Part Microsoft Power BI series:**
 
 Up & Running with Power BI Desktop
 
