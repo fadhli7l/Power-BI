@@ -66,116 +66,98 @@ __________
 
 __________
 
-POWER BI OBJECTIVE #2: Build a Relational Data Model
+**POWER BI OBJECTIVE #2: Build a Relational Data Model**
 
-Intro to Database Normalization
+ * Intro to Database Normalization
 
-Data ("Fact") Tables vs. Lookup ("Dimension") Tables
+ * Data ("Fact") Tables vs. Lookup ("Dimension") Tables
 
-Creating Power BI Table Relationships
+ * Creating Power BI Table Relationships
 
-"Star" vs. "Snowflake" Schemas
+ * "Star" vs. "Snowflake" Schemas
 
-Active vs. Inactive Relationships
+ * Active vs. Inactive Relationships
 
-Relationship Cardinality
+ * Relationship Cardinality
 
-Connecting Multiple Data Tables
+ * Connecting Multiple Data Tables
 
-Filtering & Cross-Filtering
+ * Filtering & Cross-Filtering
 
-Hiding Fields from the Power BI Report View
+ * Hiding Fields from the Power BI Report View
 
-Data Modeling & Power BI best Practices
-
-__________
-
-POWER BI OBJECTIVE #3: Add Calculated Fields with DAX
-
-Intro to Data Analysis Expressions (DAX)
-
-Calculated Columns vs. Measures
-
-Row Context vs. Filter Context in Power BI
-
-DAX Syntax & Operators
-
-Common Power BI Functions
-
-Basic Date & Time Formulas
-
-Logical & Conditional Statements
-
-Text, Math & Stats Functions
-
-Joining Data with RELATED
-
-CALCULATE, ALL & FILTER Functions
-
-DAX Iterators (SUMX, AVERAGEX)
-
-Time Intelligence Formulas
-
-DAX & Power BI Best Practices
+ * Data Modeling & Power BI best Practices
 
 __________
 
-POWER BI OBJECTIVE #4: Design Interactive Power BI Reports
+**POWER BI OBJECTIVE #3: Add Calculated Fields with DAX**
 
-Intro to the Power BI Report View
+ * Intro to Data Analysis Expressions (DAX)
 
-Adding Basic Charts to Power BI Reports
+ * Calculated Columns vs. Measures
 
-Formatting & Filtering Options
+ * Row Context vs. Filter Context in Power BI
 
-Matrix Visuals
+ * DAX Syntax & Operators
 
-Slicers & Timelines
+ * Common Power BI Functions
 
-Cards & KPIs
+ * Basic Date & Time Formulas
 
-Power BI Map Visuals (Basic, Fill, ArcGIS)
+ * Logical & Conditional Statements
 
-Treemaps, Lines, Areas & Gauges
+ * Text, Math & Stats Functions
 
-Editing Report interactions
+ * Joining Data with RELATED
 
-Adding Drillthrough Filters
+ * CALCULATE, ALL & FILTER Functions
 
-Linking to Report Bookmarks
+ * DAX Iterators (SUMX, AVERAGEX)
 
-Using "What-If" Parameters
+ * Time Intelligence Formulas
 
-Managing & Viewing Roles
-
-PREVIEW: Publishing to Power BI Service
-
-Power BI Data Viz Best Practices
+ * DAX & Power BI Best Practices
 
 __________
 
-By the end of the Adventure Works project, not only will you have developed an entire business intelligence tool from the ground up using Power BI, but you will have gained the knowledge and confidence to apply these same concepts to your own Power BI projects.
+**POWER BI OBJECTIVE #4: Design Interactive Power BI Reports**
 
-For those looking for more opportunities to test their Power BI skills, I've also included an additional set of project files for a bonus Final Project. This is your chance to showcase all of the skills you've developed throughout the course, and apply them to a brand new data set from Maven Market, a global supermarket chain.
+ * Intro to the Power BI Report View
 
-Whether you're a casual Power BI user, aspiring analyst, or data science professional, this course will give you the tools you need to become an absolute Power BI ROCK STAR -- guaranteed.
+ * Adding Basic Charts to Power BI Reports
+
+ * Formatting & Filtering Options
+
+ * Matrix Visuals
+
+ * Slicers & Timelines
+
+ * Cards & KPIs
+
+ * Power BI Map Visuals (Basic, Fill, ArcGIS)
+
+ * Treemaps, Lines, Areas & Gauges
+
+ * Editing Report interactions
+
+ * Adding Drillthrough Filters
+
+ * Linking to Report Bookmarks
+
+ * Using "What-If" Parameters
+
+ * Managing & Viewing Roles
+
+ * PREVIEW: Publishing to Power BI Service
+
+ * Power BI Data Viz Best Practices
 
 __________
 
-Join today and get immediate, lifetime access to the following:
+By the end of the Adventure Works project, not only will you have developed an entire business intelligence tool from the ground up using Power BI, but you will have gained the **knowledge** and **confidence** to apply these same concepts to your own Power BI projects.
 
-100+ page Power BI ebook
+For those looking for more opportunities to test their Power BI skills, I've also included an additional set of project files for a bonus **Final Project**. This is your chance to showcase all of the skills you've developed throughout the course, and apply them to a brand new data set from **Maven Market**, a global supermarket chain.
 
-Downloadable Power BI project files
+Whether you're a casual Power BI user, aspiring analyst, or data science professional, this course will give you the tools you need to become an absolute Power BI **ROCK STAR** -- guaranteed.
 
-Homework exercises & quizzes
 
-1-on-1 expert support
-
-Course Q&A forum
-
-30-day money-back guarantee
-
-See you in there!
-
--Chris (Founder, Maven Analytics)
