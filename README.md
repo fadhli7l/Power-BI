@@ -1,10 +1,10 @@
 **NOTE: This is PART 1 of a 2-Part Microsoft Power BI series:**
 
-Up & Running with Power BI Desktop
+  1. Up & Running with Power BI Desktop
 
-Publishing to Power BI Service
+  2. Publishing to Power BI Service
 
-Don't forget to complete PART 2 to learn Power BI Service and take your Power BI skills to the cloud!
+**Don't forget to complete PART 2 to learn Power BI Service and take your Power BI skills to the cloud!**
 
 __________
 
